@@ -5,10 +5,16 @@ My name is Andres, and I have extensive experience as a biostatistician/data sci
 
 Skills: R / Statistics / data visualisation / R package creation / 
 
-- 🔭 I’m currently working on this page. 
 
 ## Examples of work 
-![Alt text|200](Dashboard.jpg)
+![](Dashboard.jpg)
+
+![](Dashboard.jpg | width=100)
 
  
+ 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-AM)](https://github.com/anuraghazra/github-readme-stats)
+
+
+- 🔭 I’m currently working on this page. 
+
