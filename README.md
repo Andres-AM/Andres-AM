@@ -7,11 +7,7 @@ Skills: R / Statistics / Data Visualisation / R Package / ShinyApps
 
 
 ## Examples of work 
- <img src="Dashboard.jpg" width=50% height=50%>
- <img src="report.jpg" width=50% height=50%>
- 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andres-AM)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="Dashboard.jpg" width=50% height=50%> <img src="report.jpg" width=50% height=50%>
 
 - 🔭 I’m currently working on this page. 
 
