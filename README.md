@@ -7,7 +7,7 @@ Skills: R / Statistics / Data Visualisation / R Package / ShinyApps
 
 
 ## Examples of work 
-<img src="Dashboard.jpg" width=50% height=50%> <img src="report.jpg" width=50% height=50%>
+<img src="Dashboard.jpg" width=25% height=25%> <img src="report.jpg" width=25% height=25%>
 
 - 🔭 I’m currently working on this page. 
 
