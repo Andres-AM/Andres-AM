@@ -7,8 +7,12 @@ To get a glimpse of the reports I have worked on, you can explore the examples a
 
 Skills: R / Statistics / Data Visualisation / R Package / ShinyApps
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres-AM&layout=compact&theme=radical)
+
 ## Examples of work 
 <img src="Dashboard.jpg" width="500" height="500"> <img src="report.jpg" width="300" height="500">
 
+
 - 🔭 I’m currently working on this page. 
+
 
