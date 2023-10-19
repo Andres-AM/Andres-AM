@@ -8,7 +8,7 @@ To get a glimpse of the reports I have worked on, you can explore the examples a
 Skills: R / Statistics / Data Visualisation / R Package / ShinyApps
 
 ## Examples of work 
-<img src="Dashboard.jpg" width="420" height="350"> <img src="report.jpg" width="230" height="350"><img src="survival.jpg" width="420" height="350">
+<img src="survival.jpg" width="420" height="350"> <img src="report.jpg" width="230" height="350"><img src="preview.jpg" width="420" height="350"
 
 
 - 🔭 I’m currently working on this page. 
