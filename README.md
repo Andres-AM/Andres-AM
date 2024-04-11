@@ -8,7 +8,14 @@ To get a glimpse of the reports I have worked on, you can explore the examples a
 Skills: R / Statistics / Data Visualisation / R Package / ShinyApps
 
 ## Examples of work 
-<img src="survival.jpg" width="420" height="350"> <img src="report.jpg" width="230" height="350"><img src="preview.jpg" width="420" height="350">
+
+- [TFScrapper](https://andres-am.shinyapps.io/TFScrappeR/)
+- [Health Dashboard](https://andres-am.shinyapps.io/health-dashboard/)
+
+
+
+## Previews  
+<img src="survival.jpg" width="420" height="350"> <img src="report.jpg" width="230" height="350"><img src="preview.jpg" width="420" height="350"><img src="TFScrapper.png" width="230" height="200">
 
 - 🔭 I’m currently working on this page. 
 
