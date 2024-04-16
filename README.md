@@ -11,7 +11,7 @@ Skills: R / Statistics / Data Visualisation / R Package / ShinyApps
 
 - [TFScrapper](https://andres-am.shinyapps.io/TFScrappeR/)
 - [Health Dashboard](https://andres-am.shinyapps.io/health-dashboard/)
-- [NutriPlot]()
+- [NutriPlot](https://rpubs.com/Andres-AM/NutriPlot)
 
 
 
