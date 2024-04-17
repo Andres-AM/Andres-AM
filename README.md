@@ -7,7 +7,7 @@ To get a glimpse of the reports I have worked on, you can explore the examples a
 
 Skills: R / Statistics / Data Visualisation / R Package / ShinyApps
 
-## Examples of work <> 
+## Examples of work 
 
  - [TFScrapper](https://andres-am.shinyapps.io/TFScrappeR/)
  - [Health Dashboard](https://andres-am.shinyapps.io/health-dashboard/)
