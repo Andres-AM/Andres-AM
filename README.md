@@ -7,16 +7,28 @@ To get a glimpse of the projects I have worked on, you can explore the examples 
 
 Skills: R / Statistics / Data Visualisation / R Package / ShinyApps
 
-## Examples of work 
+## Examples of projects 
 
- - [TFScrapper](https://andres-am.shinyapps.io/TFScrappeR/)
- - [Health Dashboard](https://andres-am.shinyapps.io/health-dashboard/)
- - [NutriPlot](https://rpubs.com/Andres-AM/NutriPlot)
+Statistics: 
+
+- [Survival Analysis]()
+
+Data visualisation: 
+
+ - [Health Dashboard](https://andres-am.shinyapps.io/health-dashboard/) (tools used : shiny app, ggplot2, linear regression and prediction, scoring systems)
+ - [NutriPlot](https://rpubs.com/Andres-AM/NutriPlot) (tools used : Quarto reporting, ggplot2)
+
+Other topics: 
+
+ - [TFScrapper](https://andres-am.shinyapps.io/TFScrappeR/) (tools used: web scrapping, dashboarding)
+
 
 <!---
 ## Previews  
 <img src="survival.jpg" width="420" height="350"> <img src="report.jpg" width="230" height="350"><img src="preview.jpg" width="420" height="350"><img src="TFScrapper.png" width="230" height="200">
 --->
+
+
 - 🔭 I’m currently working on this page. 
 
 
