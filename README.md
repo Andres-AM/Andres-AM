@@ -17,7 +17,7 @@ Statistics:
 Data visualisation: 
 
  - [Health Dashboard](https://andres-am.shinyapps.io/health-dashboard/) (tools used: Shiny app, ggplot2, linear regression and prediction, scoring systems)
- - [NutriPlot](https://rpubs.com/Andres-AM/NutriPlot) (tools used: quarto report,markdown, ggplot2)
+ - [NutriPlot](https://andres-am.github.io/NutriPlot/) (tools used: quarto report,markdown, ggplot2)
 
 Other topics: 
 
