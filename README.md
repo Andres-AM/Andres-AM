@@ -11,7 +11,7 @@ Skills: R / Statistics / Data Visualisation / R Package / Shiny Apps
 
 Statistics: 
 
-- [Survival Analysis]()
+- Survival Analysis
 - [Statistical Report](https://github.com/Andres-AM/report-example/blob/main/report.pdf) (tools used: LATEX, Markdown, Rmarkdown, ggplot2)  
 
 Data visualisation: 
