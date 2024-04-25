@@ -12,17 +12,17 @@ Skills: R / Statistics / Data Visualisation / R Package / Shiny Apps
 Statistics: 
 
 - Survival Analysis
-- [Statistical Report](https://github.com/Andres-AM/report-example/blob/main/report.pdf) (tools used: LATEX, Markdown, Rmarkdown, ggplot2)  
+- [Statistical Report](https://github.com/Andres-AM/report-example/blob/main/report.pdf) (Reporting, LATEX, Markdown, Rmarkdown, ggplot2)  
 
-Data visualisation: 
+Health and Nutrition: 
 
- - [Health Dashboard](https://andres-am.shinyapps.io/health-dashboard/) (tools used: Shiny app, ggplot2, linear regression and prediction, scoring systems)
- - [NutriPlot](https://andres-am.github.io/NutriPlot/) (tools used: quarto report,markdown, ggplot2)
+ - [Weight Tracker](https://andres-am.shinyapps.io/health-dashboard/) ( Weight tracking, Shiny app, ggplot2, linear regression and prediction, scoring systems)
+ - [NutriPlot](https://andres-am.github.io/NutriPlot/) (Foods visualisation,quarto report,markdown, ggplot2)
 
 Other topics: 
 
- - [TFScrapper](https://andres-am.shinyapps.io/TFScrappeR/) (tools used: web scrapping, ShinyDashboards, dashboarding)
- - [Weather Dashboard](https://andres-am.shinyapps.io/weather_geneva/)  (tools used: Shiny app, ShinyDashboards, ggplot2 and plotly, dashboarding)
+ - [TFScrapper](https://andres-am.shinyapps.io/TFScrappeR/) (Case laws from the Swiss Federal Tribunal, web scrapping, ShinyDashboards, dashboarding)
+ - [Weather Dashboard](https://andres-am.shinyapps.io/weather_geneva/)  (Weather changes in Geneva, Shiny app, ShinyDashboards, ggplot2 and plotly, dashboarding)
 
 
 
