@@ -1,13 +1,12 @@
-### Hi there 👋, I'm Andrés Acuña Marroquín
 #### Biostatistician/Data Scientist
 
 My name is Andres, and I have 4 years of experience as a biostatistician/data scientist in the field of biotechnology product development. I have played a crucial role by offering statistical guidance, analyzing key performance indicators for various biotechnology products, and generating comprehensive reports to showcase their performance. 
 
-To get a glimpse of the projects I have worked on, you can explore the examples available in my repositories.
+Skills: R / Statistics / Data Visualisation / R Packages / Shiny Apps
 
-Skills: R / Statistics / Data Visualisation / R Package / Shiny Apps
+To catch a glimpse of the personal projects I've worked on, feel free to explore the following examples or browse through my repositories.
 
-## Examples of projects 
+## Examples of projects using R 
 
 Statistics: 
 
