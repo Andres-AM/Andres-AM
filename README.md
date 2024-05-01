@@ -20,7 +20,7 @@ Health and Nutrition:
 
 Other topics: 
 
- - [TFScrapper](https://andres-am.shinyapps.io/TFScrappeR/) (Case laws from the Swiss Federal Tribunal, web scrapping, ShinyDashboards, dashboarding)
+ - [TFScrapper](https://andres-am.shinyapps.io/TFScrappeR/) (Case laws from the Federal Supreme Court of Switzerland, web scrapping, ShinyDashboards, dashboarding)
  - [Weather Dashboard](https://andres-am.shinyapps.io/weather_geneva/)  (Weather changes in Geneva, Shiny app, ShinyDashboards, ggplot2 and plotly, dashboarding)
 
 
