@@ -15,7 +15,7 @@ Statistics:
 
 Health and Nutrition: 
 
- - [Weight Tracker](https://andres-am.shinyapps.io/health-dashboard/) ( Weight tracking, Shiny app, ggplot2, linear regression and prediction, scoring systems)
+ - [Weight Tracker](https://andres-am.shinyapps.io/WeightTrackR/) ( Weight tracking, Shiny app, ggplot2, linear regression and prediction, scoring systems)
  - [NutriPlot](https://andres-am.github.io/NutriPlot/) (Foods visualisation,quarto report,markdown, ggplot2)
 
 Other topics: 
