@@ -10,7 +10,7 @@ To catch a glimpse of the personal projects I've worked on, feel free to explore
 
 Statistics: 
 
-- Survival Analysis
+- [Survival Analysis](https://andres-am.github.io/survival-analysis/) (survival analysis, Quarto, ggsurvfit, survival, plotly, ggplot2, knitr)
 - [Statistical Report](https://github.com/Andres-AM/report-example/blob/main/report.pdf) (Reporting, LATEX, Markdown, Rmarkdown, ggplot2)  
 
 Health and Nutrition: 
