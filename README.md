@@ -23,7 +23,3 @@ Other topics:
  - [Newspaper headlines analysis](https://we-data-ch.github.io/globlization_hackaton_training/) (Newspaper headlines from www.20min.ch, scoring systems, quarto report, DT, crosstalk, plotly)
  - [TFScrapper](https://andres-am.shinyapps.io/TFScrappeR/) (Case laws from the Swiss Federal Supreme Court, web scrapping, ShinyDashboards, dashboarding)
  - [Weather Dashboard](https://andres-am.shinyapps.io/weather_geneva/)  (Weather changes in Geneva, Shiny app, ShinyDashboards, ggplot2 and plotly, dashboarding)
-
-
-
-🔭 I’m currently working on this page. 
